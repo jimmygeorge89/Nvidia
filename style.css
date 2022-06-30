@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.c-img{
+    background-image: url(computex-22-keynote-phase-1-nv-wmfg-2560x580-d.jpg);
+     background-size: cover;
+     background-position: center;  
+
+}
+.pic{
+    margin-left: 105px;
+    margin-top: -30px;
+}
+.pic.img{
+    size: 12px;
+}
+.c-img .h2,.Shop p,.Gaming p,.Latestnews p, footer p,.icon i{
+    color: #76b900;
+}
+ .header-text {
+    color: azure;
+}
+.header-text .cnt .img{
+    margin-top: -110px;
+    margin-left: 82px;
+}
+.savethedate,.subscribe {
+        background-color: #76b900;
+        border: none;
+        color: white;
+        padding: 10px 25px;
+        text-align: center;
+
+}
+.cnt{
+    height: 70vh;
+}
+.m-height-200{
+    min-height: 200px;
+}
+.m-height-120{
+    min-height: 120px;
+}
+.m-height-280{
+    min-height: 280px;
+}
+
+footer{
+    background-color: black;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+hr{
+    width: 234px;
+    height: 2px;
+    margin-left: -12px;
+}
+h6{
+    color: aliceblue;
+    font-size: 14px;
+}
+
+.icons{
+    font-size: 25px;
+    color: aliceblue;
+}
+.Last{
+    background-color:white;
+}
+@media only screen and (max-width: 600px) {
+    .pic{
+        margin-left: 25px;
+    }
+}
